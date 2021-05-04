@@ -1,5 +1,5 @@
 <? php
 
-echo "<h1> Cadastro de Clientes.";
+echo "Cadastro de Clientes.";
 
 ?>
